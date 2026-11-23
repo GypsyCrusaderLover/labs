@@ -3,7 +3,7 @@
 ## Выполнили
 Лукьяненко Даниил, Мироненко Данил, группа 3831.9
 
-## Описание объектно-ориентированной структуры
+## Описание структуры
 1. Создан класс `TodoItem` (файл `TodoItem.cs`):
    - Свойства: `Text`, `IsDone`, `LastUpdate`;
    - Методы: `MarkDone()`, `UpdateText(string newText)`, `GetShortInfo()`, `GetFullInfo()`.
